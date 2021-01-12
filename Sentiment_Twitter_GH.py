@@ -4,7 +4,7 @@ from textblob import TextBlob
 import tweepy
 import matplotlib.pyplot as plt
 
-# Keys needed to connect to the Twitter API which can be obatined by creating a Twitter developer account 
+# Keys needed to connect to the Twitter API which can be obtained by creating a Twitter developer account 
 consumerKey = ''
 consumerSecret = ''
 accessToken = ''
